@@ -1,4 +1,4 @@
-# This is a placeholder for the converted code since the actual C++ game code needs to be retrieved from the Vert0o0/C--game repository. Once retrieved and converted, this content will be replaced with the actual C code. # 
+//This is a placeholder for the converted code since the actual C++ game code needs to be retrieved from the Vert0o0/C--game repository. Once retrieved and converted, this content will be replaced with the actual C code. # 
 
 // Sample Structure for Character in C
 struct Character {
@@ -16,3 +16,4 @@ void selectCharacter(struct Character *c) {
 void gameLoop() {
     // Main game loop logic
 }
+int m
